@@ -3,6 +3,9 @@
 //If an item cannot be found, add the new item and quantity into the inventory array. 
 //The returned inventory array should be in alphabetical order by item.
 
+//Psedocode
+//Take arr1 on as inventory and arr2 as new arrival
+
 function updateInventory(arr1, arr2) {
   // Helper function to update inventory
   function  i updateItemQuantity(inventory, newItem) {
